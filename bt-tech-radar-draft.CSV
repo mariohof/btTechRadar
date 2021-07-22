@@ -1,8 +1,8 @@
-name;ring;quadrant;isNew;description
-MSDSysId;Adopt;Tools;TRUE;Konvertierung zwischen SGML & XML
-Check-IETP-X;Adopt;Tools;TRUE;Personalisiert (IP anhand Geräteliste) ein MSD-v3 
-auto-copy-gfx;Adopt;Tools;TRUE;Checks a delivery against the IETPX-requirements and creates protocol messages
-1_Konverter MK88A;Adopt;Tools;TRUE;Duchsucht ein Verzeichnis und kopiert die in einem DM im xml Ordner gefundenen ICN in einen paralleln cgm_tif Ordner, kopiert auch benötigte Derivate
-Compare_Lists;Adopt;Tools;TRUE;
-create_SGM_DML;Adopt;Tools;TRUE;
-CSNREF-Builder;Adopt;Tools;TRUE;
+name,ring,quadrant,isNew,description
+MSDSysId,Adopt,Tools,TRUE,"Konvertierung zwischen SGML & XML"
+Check-IETP-X,Adopt,Tools,TRUE,"Personalisiert (IP anhand GerÃ¤teliste) ein MSD-v3"
+auto-copy-gfx,Adopt,Tools,TRUE,"Checks a delivery against the IETPX-requirements and creates protocol messages"
+1_Konverter MK88A,Adopt,Tools,TRUE,"Duchsucht ein Verzeichnis und kopiert die in einem DM im xml Ordner gefundenen ICN in einen paralleln cgm_tif Ordner, kopiert auch benÃ¶tigte Derivate"
+Compare_Lists,Adopt,Tools,TRUE,""
+create_SGM_DML,Adopt,Tools,TRUE,""
+CSNREF-Builder,Adopt,Tools,TRUE,""
